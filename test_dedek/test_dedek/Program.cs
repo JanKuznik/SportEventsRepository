@@ -11,6 +11,7 @@ namespace test_dedek
         static void Main(string[] args)
         {
             int honza = 0;
+            int Tomas = 1;
 
         }
     }
