@@ -1,0 +1,5 @@
+Test 3.11.2014
+
+pøihlašovaní pomocí emailu
+heslo: min. poèet znakù 6, omezení velká, malá písmena, èíslice, kontrolní heslo
+Telefon - nepovinný, jméno pøíjmení
